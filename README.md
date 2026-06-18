@@ -5,6 +5,6 @@ ${\textsf{\color{#FF0000} ᛝㅤmy god my univere }}$<br><img width="20" height=
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3167wf22xwrhdys4uqtujnl2ogce&cover_image=true&theme=spotify-embed&show_offline=false&background_color=b51a00&interchange=true&profanity=false&hide_remaster=false&bar_color=3c071b&bar_color_cover=true&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3167wf22xwrhdys4uqtujnl2ogce&cover_image=true&theme=novatorem&show_offline=false&background_color=b51a00&interchange=true&profanity=false&hide_remaster=false&bar_color=3c071b&bar_color_cover=true">
   </a>
 </p>

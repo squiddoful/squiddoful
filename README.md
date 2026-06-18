@@ -1,4 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/262e401a47cbe979bdd7add12dd29301/4a1ffa052d23639b-c8/s2048x3072/dd12f881ab5e989d3774e87532ae5cb17ead7d4d.pnj" width="400" />
+  <img src="https://64.media.tumblr.com/683252c4a740fedd37890af87d189943/2d0aa5bda5c7d148-8b/s1280x1920/2ac80dba436ea1c620f85475bc69478dfd68c064.pnj" width="400" />
 <p align="center">
-${\textsf{\color{#FF0000} ᛝㅤmy god my univere }}$<br><img width="20" height="20"
+${\textsf{\color{#ba813c} ᛝㅤmy god my univere }}$<br><img width="20" height="20"
+
